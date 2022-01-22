@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/box.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/button.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/imagecircle.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/inputbag.xml" value="2.6666666666666665" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/login.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/profile.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/drawable/rioundlist.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/acceptedappointments.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_category.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_homepage.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_homepage2.xml" value="0.1875" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_hometab.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_hoseditprofile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_hoshome.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_hoslogin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_loginpage.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_phomepage.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_registration.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/activity_signinpage.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment1.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment2.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment3.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment_ambulances.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment_hometab.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment_hospitalsfragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment_item1_list.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment_medicalshopsfragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/fragment_phomepage.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/haslogintab.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/hossignuptab.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/loginfragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/pendingrequests.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/signinfragment.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/layout/todayappointments.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/menu/mainmenu.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/menu/menu1.xml" value="0.22" />
+        <entry key="..\:/Users/91961/AndroidStudioProjects/findurtreatment2/app/src/main/res/menu/search.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

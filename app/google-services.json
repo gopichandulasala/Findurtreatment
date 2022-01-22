@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303207991782",
+    "project_id": "findurtreatment",
+    "storage_bucket": "findurtreatment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303207991782:android:2afce27d013587eed3ae27",
+        "android_client_info": {
+          "package_name": "com.example.findurtreatment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303207991782-0pmgekl0mfos0dtci28op8818ep31hb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findurtreatment",
+            "certificate_hash": "92a2dfdaf78dad4e9f2fbca950bc6d21b79038ec"
+          }
+        },
+        {
+          "client_id": "303207991782-q6hfim0gopt4evgmv8o099k8hfdl6qva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhUoSJrbckGLTnm81ISMPGh7ODTo9XbBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303207991782-q6hfim0gopt4evgmv8o099k8hfdl6qva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
